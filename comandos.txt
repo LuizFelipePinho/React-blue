@@ -1,0 +1,4 @@
+1º - cria um app com:
+
+yarn create react-app nomedoprojeto
+
