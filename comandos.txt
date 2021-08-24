@@ -2,3 +2,13 @@
 
 yarn create react-app nomedoprojeto
 
+2º - para dar start no projeto
+
+yarn start
+
+
+
+informações
+public fica o arquivo html, é onde colocamos um nó que demarca onde vamos injetar o codigo react
+
+src fica nossos arquvios do react
